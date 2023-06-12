@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="40c101f297c36110c5b0f9271153aff0" extends="sys_import_set_row" label="Incident import" max_length="40" name="x_87159_devmen_incident_import" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Asset id" label="Asset id" max_length="40" name="u_asset_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Description" label="Description" max_length="40" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Priority" label="Priority" max_length="40" name="u_priority" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Serial number" label="Serial number" max_length="40" name="u_serial_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Short description" label="Short description" max_length="40" name="u_short_description" type="string"/>
+    </element>
+</database>
